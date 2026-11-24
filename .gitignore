@@ -1,0 +1,17 @@
+# Eclipse workspace: machine-specific paths, caches and preferences
+/.metadata/
+
+# Build output
+/build/
+*.class
+
+# Eclipse settings: keep only the 3 files that pin Java version and web facet
+/.settings/*
+!/.settings/org.eclipse.jdt.core.prefs
+!/.settings/org.eclipse.wst.common.project.facet.core.xml
+!/.settings/org.eclipse.wst.common.component
+
+# OS and logs
+Thumbs.db
+.DS_Store
+*.log
